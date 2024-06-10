@@ -1,0 +1,102 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "product": "Product A",
+      "date": "2024-06-01",
+      "sales": 150,
+      "revenue": 3000
+    },
+    {
+      "id": 11,
+      "product": "Product C",
+      "date": "2024-06-01",
+      "sales": 50,
+      "revenue": 1000
+    },
+    {
+      "id": 12,
+      "product": "Product B",
+      "date": "2024-06-01",
+      "sales": 100,
+      "revenue": 1500
+    },
+    {
+      "id": 2,
+      "product": "Product B",
+      "date": "2024-06-02",
+      "sales": 100,
+      "revenue": 2000
+    },
+    {
+      "id": 13,
+      "product": "Product I",
+      "date": "2024-06-02",
+      "sales": 200,
+      "revenue": 1050
+    },
+    {
+      "id": 3,
+      "product": "Product C",
+      "date": "2024-06-03",
+      "sales": 180,
+      "revenue": 2500
+    },
+    {
+      "id": 4,
+      "product": "Product D",
+      "date": "2024-06-04",
+      "sales": 200,
+      "revenue": 2550
+    },
+    {
+      "id": 5,
+      "product": "Product E",
+      "date": "2024-06-05",
+      "sales": 210,
+      "revenue": 2580
+    },
+    {
+      "id": 6,
+      "product": "Product F",
+      "date": "2024-06-06",
+      "sales": 220,
+      "revenue": 2600
+    },
+    {
+      "id": 7,
+      "product": "Product G",
+      "date": "2024-06-07",
+      "sales": 230,
+      "revenue": 2680
+    },
+    {
+      "id": 8,
+      "product": "Product H",
+      "date": "2024-06-08",
+      "sales": 235,
+      "revenue": 1200
+    },
+    {
+      "id": 9,
+      "product": "Product I",
+      "date": "2024-06-09",
+      "sales": 240,
+      "revenue": 1250
+    },
+    {
+      "id": 10,
+      "product": "Product J",
+      "date": "2024-06-10",
+      "sales": 245,
+      "revenue": 1300
+    },
+    {
+      "id": 82,
+      "product": "Product H",
+      "date": "2024-06-12",
+      "sales": 235,
+      "revenue": 1200
+    }
+  ]
+}
